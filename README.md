@@ -69,8 +69,8 @@ This project focuses on exploring global COVID-19 data using SQL to uncover insi
 
 ## 📁 Files in this Repo
 
-- `covid_data_exploration.sql`: Main SQL script for all queries
-- `vaccination_temp_table.sql`: Script of the table used for Tableau Visuals
+- `SQL query - Data Exploration.sql`: Main SQL script for all queries
+- `SQLQuery - Tables for Tableau.sql`: Script of the tables used for Tableau Visuals
 
 ---
 
